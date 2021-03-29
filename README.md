@@ -1,0 +1,2 @@
+# 17Miner
+GPU Miner
